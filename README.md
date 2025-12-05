@@ -2,6 +2,9 @@
 A simple Command-Line Interface (CLI) Contact Book application written in Python.
 This project allows users to add, view, search, update, and delete contacts, with all data stored persistently in a JSON file.
 
+
+
+
                    Features
 
 Add Contacts: Store a contact’s name, phone number, email, and address.
@@ -14,7 +17,9 @@ Update Contacts: Modify any field of an existing contact; leave a field empty to
 
 Delete Contacts: Remove contacts by name.
 
-Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.gi
+Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.
+
+
 
           Project Structure
 .  contacts.json     Auto-generated file to store contacts
@@ -24,13 +29,9 @@ Persistent Storage: All contacts are saved in a local JSON file (contacts.json) 
  Requirements
 
 
-git clone https://github.com/yourusername/contact-book.git
-cd contact-book
-
-
 Run the application:
 
-python main.py
+python3 Contact_Book.py
 
 
 Follow the on-screen menu:
