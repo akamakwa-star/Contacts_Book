@@ -16,5 +16,11 @@
         "phone": "4778622",
         "email": "Jame@gmail.com",
         "address": "Mombasa"
+    },
+    {
+        "name": "Beltus",
+        "phone": "67044478",
+        "email": "Beltus@gmail.com",
+        "address": "Nairobi"
     }
 ]
