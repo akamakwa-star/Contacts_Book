@@ -12,4 +12,29 @@ Update Contacts: Modify any field of an existing contact; leave a field empty to
 
 Delete Contacts: Remove contacts by name.
 
-Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.gi
+Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.gi📂 Project Structure
+.  contacts.json     Auto-generated file to store contacts
+   main.py            Main program containing all functionality
+   README.md         Project documentation
+
+ Requirements
+
+
+git clone https://github.com/yourusername/contact-book.git
+cd contact-book
+
+
+Run the application:
+
+python main.py
+
+
+Follow the on-screen menu:
+
+  CONTACT BOOK 
+1. Add Contact
+2. View Contacts
+3. Search Contacts
+4. Update Contact
+5. Delete Contact
+6. Exit
