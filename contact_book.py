@@ -15,7 +15,7 @@ def load_contacts():
     return []
 
 
-def save_contacts(contacts):
+def save_contact(contacts):
     """Save contacts to the JSON storage file."""
     with open(CONTACTS_FILE, "w") as file:
         json.dump(contacts, file, indent=4)
