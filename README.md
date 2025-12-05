@@ -12,7 +12,9 @@ Update Contacts: Modify any field of an existing contact; leave a field empty to
 
 Delete Contacts: Remove contacts by name.
 
-Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.gi📂 Project Structure
+Persistent Storage: All contacts are saved in a local JSON file (contacts.json) for long-term storage.gi
+
+          Project Structure
 .  contacts.json     Auto-generated file to store contacts
    main.py            Main program containing all functionality
    README.md         Project documentation
